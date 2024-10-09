@@ -1,11 +1,11 @@
-import hedgehogLogo from "/hedgehog.svg";
+import Hedgehog from "../Hedgehog";
 import "./App.scss";
 
 function App() {
   return (
     <>
       <div>
-        <img src={hedgehogLogo} className="logo react" alt="React logo" />
+        <Hedgehog size={250} />
         <h1>Спаси Ежа</h1>
       </div>
     </>
