@@ -1,3 +1,3 @@
 import Hedgehog from "./Hedgehog";
 
-export default Hedgehog;
+export { Hedgehog };

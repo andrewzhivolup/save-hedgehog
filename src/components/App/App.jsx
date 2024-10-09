@@ -1,4 +1,4 @@
-import Hedgehog from "../Hedgehog";
+import { Hedgehog } from "../Hedgehog";
 import "./App.scss";
 
 function App() {
